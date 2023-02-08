@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //tvGreeting = findViewById(R.id.txt_HolaMundo)
+        tvGreeting = findViewById(R.id.txt_HolaMundo)
         cambiarMensaje()
         cambiarMensaje(1)
         //tvGreeting.text = getString(R.string.despedida)

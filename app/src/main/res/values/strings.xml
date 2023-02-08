@@ -2,4 +2,5 @@
     <string name="app_name">Hola Mundo</string>
     <string name="saludo">Buenas Tardes</string>
     <string name="despedida">Adiós</string>
+    <string name="adios_mundo">Adios Mundo</string>
 </resources>

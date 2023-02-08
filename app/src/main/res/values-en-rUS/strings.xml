@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Hola Mundo</string>
-    <string name="saludo">Good Afternoon</string>
+    <string name="saludo">Hello World</string>
     <string name="despedida">Goodbye</string>
+    <string name="adios_mundo">Goodbye World</string>
 </resources>
